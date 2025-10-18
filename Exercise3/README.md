@@ -7,7 +7,7 @@ Steps performed:
 3. Modified `Test.java` as instructed to test the Min Heap operations.
 
 Output:
-The heap is not empty; it contains 6 entries.
+```The heap is not empty; it contains 6 entries.
 The smallest entry is 2
 
 
@@ -18,7 +18,7 @@ Removing 14
 Removing 15
 Removing 20
 Removing 21
-
+```
 
 Notes:
 - The exercise demonstrates how to transform a Max Heap implementation into a Min Heap.  
